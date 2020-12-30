@@ -1,0 +1,59 @@
+@Article{alr07cas,
+  author =               {{Al-Radi}, Osman O. and Harrell, Frank E. and Caldarone, Christopher A.
+ and {McCrindle}, Brian W. and Jacobs, Jeffrep P. and Williams, M. Gail and {Van Arsdell}, Glen S
+. and Williams, William G.},
+  title =                {Case complexity scores in congenital heart surgery: {A} comparative stu
+dy of the {Aristotal} {Basic} {Complexity} score and the {Risk} {Adjustment} in {Congenital} {Hea
+rt} {Surgery} {(RACHS-1)} system},
+  journal =      J Thoracic Cardiovasc Surg,
+  year =                 2007,
+  volume =               133,
+  pages =                {865-874},
+  annote =               {clinical prediction rules;use of probability of more concordance and li
+kelihood ratio $\chi^2$ for testing differences in discrimination;adequacy index shown with nice
+charts, adjusted and unadjusted for background variables}
+}
+
+@Article{coo07use,
+  author = 		 {Cook, Nancy R.},
+  title = 		 {Use and misues of the receiver operating characteristic curve in risk prediction},
+  journal = 	 Circ,
+  year = 		 2007,
+  volume =		 115,
+  pages =		 {928-935},
+  annote =		 {reclassification table;problems with c index;problems with ROC area;example of large change in predicted risk in cardiovascular disease with tiny change in ROC area;possible limits to c index when calibration is perfect;importance of calibration accuracy and changes in predicted risk when new variables are added}
+}
+
+@Article{pen07eva,
+  author = 		 {Pencina, Michael J. and {D'Agostino Sr}, Ralph B. and {D'Agostino Jr}, Ralph B. and Vasan, Ramachandran S.},
+  title = 		 {Evaluating the added predictive ability of a new marker: {From} area under the {ROC} curve to reclassification and beyond},
+  journal = 	 Stat in Med,
+  year = 		 2007,
+  volume =		 26,
+  annote =		 {discrimination;model performance;AUC;C-index;risk prediction;biomarker;small differences in ROC area can still be very meaningful;example of insignificant test for difference in ROC areas with very significant results from new method;Yates' discrimination slope;reclassification table;limiting version of this based on whether and amount by which probabilities rise for events and lower for non-events when compare new model to old;comparing two models}
+}
+
+@Article{moo03sen,
+  author = 		 {Moons, Karel G. M. and Harrell, Frank E.},
+  title = 		 {Sensitivity and specificity should be de-emphasized
+in diagnostic accuracy studies},
+  journal = 	 {Academic Radiology},
+  year = 		 2003,
+  volume =		 10,
+  pages =		 {670-672},
+  note =		 {Editorial},
+  annote =		 {diagnosis;accuracy;reasons for avoiding sensitivity
+and specificity}
+}
+
+@ARTICLE{hla84fac,
+  author = {Hlatky, M. A. and Pryor, D. B. and Harrell, F. E. and Califf, R.
+           M. and Mark, D. B. and Rosati, R. A.},
+  year = 1984,
+  title = {Factors affecting the sensitivity and specificity of the exercise
+          electrocardiography. {M}ultivariable analysis},
+  journal = AJM,
+  volume = 77,
+  pages = {64-71},
+  annote = {diagnosis;testing;non-constancy of sensitivity and specificity}
+}

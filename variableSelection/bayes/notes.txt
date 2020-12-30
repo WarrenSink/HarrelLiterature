@@ -1,0 +1,11 @@
+projpred
+
+https://avehtari.github.io/modelselection/bodyfat.html
+https://link.springer.com/article/10.1007%2Fs11222-016-9649-y
+https://arxiv.org/abs/1810.02406
+https://avehtari.github.io/modelselection
+https://www.youtube.com/watch?v=Re-2yVd0Mqk&t=87m6s
+
+From Aki Vehtari after I mentioned my use of 'model approximation in 2001 RMS':
+The discussion in your Section 5.4.2 is similar as by Lindley (1968). When noise is unknown the situation is a bit different. The term projection comes from Leamer (1979). Some additional historical Bayesian references can be found in Section 5.4 of 
+https://projecteuclid.org/euclid.ssu/1356628931

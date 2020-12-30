@@ -1,0 +1,4 @@
+Validation in the Bayesian framework:
+https://stats.stackexchange.com/questions/333078
+https://stats.stackexchange.com/questions/265094
+https://discourse.mc-stan.org/t/discuss-overfitting-model-validation-in-bayesian-context
